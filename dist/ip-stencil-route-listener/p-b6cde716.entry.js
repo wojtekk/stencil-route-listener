@@ -1,0 +1,1 @@
+import{r as o,h as r}from"./p-293c9f23.js";const t=class{constructor(r){o(this,r)}render(){return r("div",null,r("h1",null,"Home Page"),r("stencil-route-link",{url:"/about"},"Go to about page"))}};export{t as ip_app_home}

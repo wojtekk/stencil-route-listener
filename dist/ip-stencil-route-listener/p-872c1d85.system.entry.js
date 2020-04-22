@@ -1,0 +1,1 @@
+System.register(["./p-4473b2b8.system.js"],(function(t){"use strict";var e,n;return{setters:[function(t){e=t.r;n=t.h}],execute:function(){var r=t("ip_app_about",function(){function t(t){e(this,t)}t.prototype.render=function(){return n("div",null,n("h1",null,"About Page"),n("stencil-route-link",{url:"/"},"Go to home page"))};return t}())}}}));
