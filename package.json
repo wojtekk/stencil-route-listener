@@ -1,6 +1,6 @@
 {
   "name": "ip-stencil-route-listener",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple listener around Stencil router.",
   "module": "dist/index.mjs",
   "es2015": "dist/esm/index.mjs",
